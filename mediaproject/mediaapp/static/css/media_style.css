@@ -1,0 +1,170 @@
+body{
+    background: linear-gradient(#000428,#004e92);
+    background-repeat: no-repeat;
+    margin-bottom: 500px;
+
+}
+
+.image{
+    border-radius: 500px;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    border: 10px solid rgb(201,210,210,0.5);
+    opacity: 0.8;
+}
+
+.image:hover{
+    box-shadow: 0 0 20px grey;
+}
+
+.container{
+    background-color: white;
+    width: 90%;
+    border-radius: 10px;
+    padding-bottom: 200px;   
+}
+
+.container:hover{
+    box-shadow: 0 0 20px black;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    color: purple;
+    font-weight: bolder;
+}
+
+h1:hover{
+    color: blue;
+}
+
+label{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 25px;   
+}
+
+h6{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+a{
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+.instagram{
+    background-color: lightcoral;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;
+
+}
+
+.instagram:hover{
+    box-shadow: 0 0 10px black;
+}
+
+.linkedin{
+    background-color: skyblue;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;
+
+}
+
+.linkedin:hover{
+    box-shadow: 0 0 10px black;
+}
+
+.whatsapp{
+    background-color: green;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;     
+}
+
+.whatsapp:hover{
+    box-shadow: 0 0 10px black;
+}
+
+.youtube{
+    background-color: darkred;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;      
+}
+
+.youtube:hover{
+    box-shadow: 0 0 10px black;
+}
+
+.git{
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;     
+}
+
+.git:hover{
+    box-shadow: 0 0 10px black;
+}
+
+.codepen{
+    background-color: orange;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;     
+}
+
+.codepen:hover{
+    box-shadow: 0 0 10px black;
+}
+
+button[type=submit]{
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+button[type=submit]:hover{
+    background-color: green;
+    border: 2px solid green;
+    box-shadow: 0 0 10px darkcyan;
+}
