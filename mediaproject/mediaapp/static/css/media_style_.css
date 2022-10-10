@@ -12,6 +12,7 @@ body{
     margin-top: 50px;
     border: 10px solid rgb(201,210,210,0.5);
     opacity: 0.8;
+    margin-bottom: -90px;
 }
 
 .image:hover{
@@ -22,7 +23,8 @@ body{
     background-color: white;
     width: 90%;
     border-radius: 10px;
-    padding-bottom: 200px;   
+    padding-bottom: 200px; 
+    padding-top: 50px;  
 }
 
 .container:hover{
